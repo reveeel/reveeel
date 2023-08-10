@@ -13,5 +13,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rvlmigueel_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rvlmigueel_" height="30" width="40" /></a>
+<a href="https://instagram.com/rvlmigueel_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rvlmigueel_" height="auto" width="auto" /></a>
 </p>
