@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miguel Oliveira</h1>
-<h3 align="center">Studying to be a Dev.</h3>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace+Code&weight=600&size=32&pause=1000&color=800000&center=true&vCenter=true&width=1000&lines=Hi+my+name's+Miguel+Oliveira+!;Studying+to+be+a+Developer.)
+<hr>
 <p> - 🔭 I’m currently working on Personal Projects </p>
 - 🌱 I’m currently learning JavaScript, PHP
 
